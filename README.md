@@ -1,4 +1,4 @@
 # myrepo
 Repository for testing my Git/GitHub setup
 
-This is from RStudio
+This is from RStudio.
